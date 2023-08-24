@@ -140,3 +140,6 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+Deployed Applicaton - https://pwa-text-editor-challenge-b3032c8d83ab.herokuapp.com/
+GitHub Repo - https://github.com/BondT1/PWA-Text-Editor
