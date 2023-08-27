@@ -56,7 +56,7 @@ To install the necessary packages, type 'npm i concurrently', npm i express', 'n
 
 Once the necessary packages are installed, type 'npm run start' to start and run the server, a HTML file, service worker and manifest file will then be generated in the dist folder. 
 
-A database storage will then be stored using the IndexedDB. Open the application and type any code snippets or notes that you wish. If you click off the application, the inputted information will be still be stored in the database thanks to the IndexedDB. 
+A database storage will then be stored using the IndexedDB. Open the application and type any code snippets or notes that you wish. If you click off the application, the inputted information will still be stored in the database thanks to the IndexedDB. 
 
 Click the 'Install' button to download the web application as an icon on your desktop, which can be used locally without an internet connection. 
 
